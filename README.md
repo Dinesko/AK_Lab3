@@ -2,10 +2,10 @@
 
 #### You can use this program options:
 
--     -h, --help                          - get notified about helpMessage
--     -v, --version                       - get the program version
--     -n, --name                          - get the name of the program
--     -l[<val1>,...], --list=[<num1>,...] - print list of arguments
+-     -h or --help                          - get notified about helpMessage
+-     -v or --version                       - get the program version
+-     -n or --name                          - get the name of the program
+-     -l[<val1>,...] or --list=[<num1>,...] - print list of arguments
 
 ### Лiстинг програми:
 
